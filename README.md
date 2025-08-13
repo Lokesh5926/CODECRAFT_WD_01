@@ -18,3 +18,17 @@ A fully responsive landing page with:
 - Interactive navbar.
 - Modern color gradients and typography.
 - Works on all devices (desktop, tablet, mobile).
+---
+
+## 🛠 *Technologies Used*
+- *HTML5* – Structure and semantic markup.
+- *CSS3* – Styling, layout, and responsive design.
+- *JavaScript (ES6)* – Interactivity and DOM manipulation.
+
+---
+
+## 📱 *Responsive Design*
+All tasks are designed to adapt to various screen sizes using:
+- Media Queries
+- Flexbox
+- Mobile-first approach.
